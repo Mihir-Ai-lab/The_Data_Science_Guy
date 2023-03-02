@@ -1,2 +1,2 @@
 Images Collection for The Data Science Guy
-<p align="center"><img src="https://raw.githubusercontent.com/insaid2018/Term-2/master/wine%20gif%20term%201%20%26%20Term%202.gif"></p>
+<p align="center"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/color1-white_logo_dark_background.png"></p>
