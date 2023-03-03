@@ -8,5 +8,5 @@
 | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Footer.pdf"> | Notebook Footer link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Footer.pdf | 
 | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png"> | Notebook Header link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png |
 | <img src=""> | Qr Code link - |
-| <img src=""> | Social Media Header link - |
+| <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Social%20Media%20Header.png"> | Social Media Header link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Social%20Media%20Header.png |
 | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Text%20Banner.png"> | Text Banner link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Text%20Banner.png | 
