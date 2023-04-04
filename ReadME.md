@@ -19,3 +19,17 @@ Our team of experts has the skillset to assist you with:
 - Our Business Analytics teams offer a range of services, including supply chain financing, revenue-based financing, digital lending profiling, agri-lending profiling, credit underwriting suggestions, credit score improvement, neo-banking, SME financing, and factoring finance.
 - Our Branding Team can guide you to the right website designers and software developers, all through our proprietary platform.
 - Our Data Science Team can help you recruit the right people for the job, develop better models, and provide access to cloud computing, API Economy, and robotic process automation.
+
+---
+# Services
+---
+
+| | | |
+|:--|:--|:--|
+| <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Logo%20Full.png"> | Logo link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Logo%20Full.png | 
+| <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png"> | Notebook Header link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png |
+| <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Icon.png"> | Icon link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Icon.png |
+| <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Footer.png"> | Notebook Footer link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Footer.png |
+| <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Qr%20Code.png"> | Qr Code link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Qr%20Code.png |
+| <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Social%20Media%20Header.png"> | Social Media Header link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Social%20Media%20Header.png |
+| <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Text%20Banner.png"> | Text Banner link - https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Text%20Banner.png |
