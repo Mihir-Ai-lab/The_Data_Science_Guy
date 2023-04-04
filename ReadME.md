@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png"></a></p>
+
 ---
 # About Us
 ---
@@ -42,3 +44,6 @@ We believe that everyone has unique experiences, skills and passions that they c
 
 Working at TDSG is not just a job. It's an adventure where there's so much to explore that every day is a new day. We provide a working environment in which exchange of ideas is encouraged and where innovation thrives.
 For us, it’s important to nurture a culture that fosters collaboration, teamwork and individual growth. So if you're looking to build on your experience and are ready for more challenges, looking for a scope to make a difference, this is the place to be in.
+
+---
+<p align="center"><a href="https://thedatascienceguy.go.studio/"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Footer.png"></a></p>
