@@ -12,7 +12,7 @@ Our team of experts has the skillset to assist you with:
 - Efficiently managing and analysing large volumes of data to meet your business needs.
 - Creating, managing, and distributing content that aligns with your brand and resonates with your target audience.
 
-<p align="center"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/QR code.png"></a></p>
+<p align="center"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Qr%20Code.png"></a></p>
 
 ---
 # Why Choose Us? 
