@@ -34,13 +34,13 @@ Our team of experts has the skillset to assist you with:
 # Careers
 ---
 
-### We are your friend, philosopher and guide
+## We are your friend, philosopher and guide
 
 We provide career options across various streams. Whether it's helping you becoming better at what you're already good at, or helping you discover what you're the best at, we have the right guide for you.
 We do not just hire someone for what we see in them today, but also assess their potential to drive the organization tomorrow and for the time to come. We look for a high degree of passion & determination because that is what, we believe, drives an individual to be exceptional rather than conventional.
 We believe that everyone has unique experiences, skills and passions that they can bring to us for a rich, rewarding career and lifestyle.
 
-### Working at The Data Science Guy
+## Working at The Data Science Guy
 
 Working at TDSG is not just a job. It's an adventure where there's so much to explore that every day is a new day. We provide a working environment in which exchange of ideas is encouraged and where innovation thrives.
 For us, it’s important to nurture a culture that fosters collaboration, teamwork and individual growth. So if you're looking to build on your experience and are ready for more challenges, looking for a scope to make a difference, this is the place to be in.
