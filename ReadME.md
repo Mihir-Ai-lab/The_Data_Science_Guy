@@ -24,6 +24,5 @@ Our team of experts has the skillset to assist you with:
 # Services
 ---
 | | | |
-|:--|:--|:--|
 | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Branding.png"> | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Business Analytics.png"> | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Data Science.png">
 | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Business Strategy.png"> | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Content Management.png"> | <img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Data Warehousing.png"> |
